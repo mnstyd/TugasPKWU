@@ -1,0 +1,1 @@
+coba pd read csv lebih dari 1 sekaligus
